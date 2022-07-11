@@ -4,7 +4,7 @@ A simple console program to play the classic dice game "Twenty-Six"
 
 ## Description
 
-The game prints to the console. Program will request initial "bank amount" from user input and play a game of Twenty-Six. I used C++ to practice my proficiency in the language. The program demonstrates my understanding of basic OOP principles.
+The game prints to the console. Program will request initial "bank amount" from user input and play a game of Twenty-Six. I used C++ to practice my proficiency in the language. The program demonstrates my understanding of basic OOP principles, particularly class implementation.
 
 ## Rules of Twenty-Six
 
