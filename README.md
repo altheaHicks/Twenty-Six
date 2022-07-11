@@ -21,6 +21,7 @@ Score Pay-off Odds:
 - 28 6 -1
 - 29 8 -1
 - 30 or more 10 -1
+
 Any other score loses.
 
 source: http://www.dice-play.com/Games/TwentySix.htm
