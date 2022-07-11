@@ -12,15 +12,15 @@ Twenty-Six is a gambling game popular in the 1930s-50s.
 The player chooses a number from 1 to 6 as his point number.  He then throws the ten dice 13 times.  His score is the number of times that his point number is thrown.
 Payoffs made by the operator vary but the following is considered to be the normal.
 
-Score Pay-off Odds:
+Score and payout:
 
-- 10 or less 10 -1
-- 13 5 -1
-- 26 4 -1
-- 27 5 -1
-- 28 6 -1
-- 29 8 -1
-- 30 or more 10 -1
+- 10 or less  : 10  
+- 13          : 5  
+- 26          : 4  
+- 27          : 5  
+- 28          : 6  
+- 29          : 8  
+- 30 or more  : 10  
 
 Any other score loses.
 
