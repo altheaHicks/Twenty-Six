@@ -30,16 +30,18 @@ source: http://www.dice-play.com/Games/TwentySix.htm
 Requires a linux terminal
 Includes makefile that will create and executable called 'main'. Download all files and place in the same folder. Navigate to the folder with files in your linux terminal, and make executable
 
-```python
+``python
 $ make
-```
+``
 
 run main
 
-```python
+``python
 $ ./main
-```
+``
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
