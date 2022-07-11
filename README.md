@@ -12,7 +12,7 @@ Twenty-Six is a gambling game popular in the 1930s-50s.
 The player chooses a number from 1 to 6 as his point number.  He then throws the ten dice 13 times.  His score is the number of times that his point number is thrown.
 Payouts are determined by the score.
 
-- **Score  :  Payout**
+  **Score  :  Payout**
 
 - 10 or less  : 10  
 - 13          : 5  
