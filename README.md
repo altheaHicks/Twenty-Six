@@ -14,13 +14,13 @@ Payoffs made by the operator vary but the following is considered to be the norm
 
 Score Pay-off Odds:
 
-10 or less 10 -1
-13 5 -1
-26 4 -1
-27 5 -1
-28 6 -1
-29 8 -1
-30 or more 10 -1
+- 10 or less 10 -1
+- 13 5 -1
+- 26 4 -1
+- 27 5 -1
+- 28 6 -1
+- 29 8 -1
+- 30 or more 10 -1
 Any other score loses.
 
 source: http://www.dice-play.com/Games/TwentySix.htm
@@ -30,12 +30,13 @@ source: http://www.dice-play.com/Games/TwentySix.htm
 Requires a linux terminal
 Includes makefile that will create and executable called 'main'. Download all files and place in the same folder. Navigate to the folder with files in your linux terminal, and make executable
 
-```bash
+```python
 $ make
 ```
+
 run main
 
-```bash
+```python
 $ ./main
 ```
 
